@@ -3,7 +3,7 @@ astroid==1.5.3
 chardet==2.2.1
 colorama==0.2.5
 decorator==3.4.0
-html5lib==0.999
+html5lib==0.99999999
 ipython==1.2.1
 isort==4.2.15
 lazy-object-proxy==1.3.1
